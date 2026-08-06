@@ -1,86 +1,66 @@
 # Arthur Alves Stefanini
 
-Technical professional with a background in Systems Analysis and Development, with hands-on experience in IT support, troubleshooting, automation, scripting, and practical problem-solving.
+**QA · Localization · IT Support · Automation**
 
-My current career direction is focused on **QA**, especially **game QA**, while also exploring **localization, adaptation, and PT-BR regionalization** as a strong entry point into the industry. At the same time, my profile is not limited to testing alone: I also work across support, automation, technical documentation, structured analysis, and applied development.
+Technical professional with a background in Systems Analysis and Development and hands-on experience in troubleshooting, test execution, localization, scripting, and technical documentation.
 
-## Current Focus
+I build practical tools, investigate problems from both user and technical perspectives, and document the path from an imperfect first version to a reliable result. My current focus is **software and game QA**, **Brazilian Portuguese localization**, and **automation for operational workflows**.
 
-- Game QA and software QA
-- Localization and PT-BR adaptation
-- Functional testing and issue investigation
-- Bug reporting and structured QA notes
-- Automation and utility development
-- Technical support and troubleshooting
+> システム分析・開発を学び、ITサポート、QA、ローカライゼーション、自動化に取り組んでいます。現在はゲームQA、ソフトウェアテスト、ブラジルポルトガル語へのローカライズを中心に、実践的なプロジェクトを開発・改善しています。
 
-## Technical Skills
+## Selected work
 
-- **Languages:** Python, JavaScript, HTML, CSS, PowerShell, C++
-- **QA & Analysis:** functional testing, bug reproduction, usability observation, structured documentation
-- **Support & Troubleshooting:** hardware/software diagnostics, practical technical support, issue isolation
-- **Localization:** Brazilian Portuguese adaptation, translation consistency, player-facing text review
-- **Development & Automation:** scripting, workflow support tools, process-oriented coding
+### [No Backup — PT-BR Localization](https://github.com/artloock/nobackup-ptbr-localization)
 
-## What Defines My Work
+English-to-Brazilian-Portuguese game localization case study covering UI, missions, dialogue, system messages, terminology consistency, in-game validation, and linguistic QA.
 
-I like to approach projects with care, structure, and attention to quality.
+`Localization` `LQA` `Game QA` `Documentation`
 
-Even when a project is simple, experimental, or still evolving, I aim to build it seriously, document it clearly, and extract real technical value from the process. That mindset is what connects my work in support, automation, localization, and QA.
+### [JP Server Automation](https://github.com/artloock/JP-Server-Automation-PS)
 
-## Featured Projects
+PowerShell toolkit for Windows server administration and repeatable operational routines. Includes bilingual documentation and a practical guide for adapting the project with proper attribution.
 
-### No Backup PT-BR Localization
-Brazilian Portuguese localization/adaptation project for the game **No Backup**, focused on clarity, tone, consistency, and player-facing text quality.
+`PowerShell` `Windows Server` `Automation` `Operations`
 
-### MailBot
-Python-based email automation project built to send predefined messages through SMTP configuration.
+### [DataAlign for Excel](https://github.com/artloock/Pthon-Graphic-Data-Analisis)
 
-### JP-Server-Automation-PS
-PowerShell-focused automation work related to practical technical and server-side routines.
+An academic Python data-analysis project redesigned as an Excel add-in prototype. It reviews and standardizes spreadsheet data, generates charts, and compares current results with imported historical datasets.
 
-### MarketDataAutomation
-Automation-oriented project involving data/process handling and structured workflow thinking.
+`TypeScript` `Office.js` `Data Quality` `Excel`
 
-### Pthon-Graphic-Data-Analisis
-Data analysis-oriented project using notebooks and structured technical experimentation.
+### [CodeCUpdate](https://github.com/artloock/CodeCUpdate)
 
-### CodeCUpdade
-A recent C++ project that reflects my broader technical interest in development, logic, and practical implementation.
+Modern C++20 reconstruction of a legacy XBT tracker for Windows 11 and Linux. The project replaces a broken Windows port with a tested Winsock/POSIX architecture, modern CMake, CI, and security documentation.
 
-## Professional Background
+`C++20` `Winsock` `Networking` `CMake`
 
-My experience includes technical support, maintenance, troubleshooting, user-oriented problem solving, and real-world technical service routines. This background helps me evaluate systems and products from both the user side and the technical side, which is especially valuable in QA and support-driven environments.
+## Skills
 
-## Career Direction
+| Area | Experience |
+| --- | --- |
+| QA | Functional testing, reproduction steps, exploratory testing, usability review, bug reporting |
+| Localization | EN → PT-BR adaptation, terminology consistency, contextual review, linguistic QA |
+| Support | Windows, hardware/software diagnosis, issue isolation, user-oriented troubleshooting |
+| Automation | PowerShell, Python, workflow utilities, repeatable operational processes |
+| Development | C++, TypeScript, JavaScript, HTML/CSS, Git, technical documentation |
 
-I am especially interested in opportunities involving:
+## How I work
 
-- Game QA
-- Software QA
-- Localization QA
-- PT-BR adaptation and regionalization
-- Technical support with testing responsibilities
-- Junior to mid-level technical roles that value analytical thinking and practical execution
+- Reproduce and isolate the problem before changing the system.
+- Keep user impact and technical evidence in the same report.
+- Prefer reviewable automation over hidden side effects.
+- Preserve project history while making the current version useful.
+- Document limitations honestly instead of presenting prototypes as production software.
+
+## Currently looking for
+
+Opportunities in **software QA**, **game QA**, **localization QA**, **PT-BR localization**, technical support with testing responsibilities, and junior technical roles where analytical thinking and clear documentation matter.
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/arthur-alves-stefanini-973a99169](https://www.linkedin.com/in/arthur-alves-stefanini-973a99169/)
-- **GitHub:** [github.com/artloock](https://github.com/artloock)
+- [LinkedIn](https://www.linkedin.com/in/arthur-alves-stefanini-973a99169/)
+- [GitHub](https://github.com/artloock)
 
 ---
 
-*Building a portfolio around QA, localization, support, and automation, because apparently I refused to choose only one headache.*
-<!--
-**artloock/artloock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building reliable things from unreliable starting points — which, judging by these repositories, has become a specialty.*
